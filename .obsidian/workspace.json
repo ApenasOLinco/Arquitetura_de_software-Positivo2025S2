@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2f214a775ff69c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dc8c354a053e5cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149e0819b5bbbcb6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01 Casos de Uso/Componentes/Componentes.canvas",
+                "viewState": {
+                  "x": 1159.1790600228555,
+                  "y": 435.2439303513195,
+                  "zoom": -0.46059346368681386
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Componentes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7e46dffa9d00efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "27753fc5bc0ab286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e247f5a3b977fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50f0337c00b93e47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0267519d368e4bf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5110321044922
+  },
+  "right": {
+    "id": "98657a484acb43d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee386e1d49141c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9468c0a860f241c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Casos de Uso/Componentes de um diagrama.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Componentes de um diagrama"
+            }
+          },
+          {
+            "id": "a97b059d809c2f3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Casos de Uso/Componentes de um diagrama.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Componentes de um diagrama"
+            }
+          },
+          {
+            "id": "bedd5a999997a28f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9dd1c8f629386467",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Casos de Uso/Componentes/Componentes.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Componentes"
+            }
+          },
+          {
+            "id": "472b45d67226a624",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "149e0819b5bbbcb6",
+  "lastOpenFiles": [
+    "01 Casos de Uso/Exercícios/A/_ Enunciado.md",
+    "01 Casos de Uso/Exemplos/Vendedor.md",
+    "01 Casos de Uso/Exercícios/C/_ Enunciado.md",
+    "01 Casos de Uso/Exercícios/C/Diagrama.md",
+    "01 Casos de Uso/Casos de Uso.md",
+    "01 Casos de Uso/Histórias de usuário.md",
+    "01 Casos de Uso/Exercícios/A/Diagrama.md",
+    "01 Casos de Uso/Exercícios/C/Histórias de usuário.md",
+    "01 Casos de Uso/Componentes/Componentes.canvas",
+    "01 Casos de Uso/Componentes/Desenhos/01 Ator.md",
+    "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md",
+    "01 Casos de Uso/Exercícios/C",
+    "01 Casos de Uso/Exercícios/B/Diagrama.md",
+    "01 Casos de Uso/Exercícios/B/Histórias de usuário.md",
+    "01 Casos de Uso/Componentes/Desenhos/03 Herança.md",
+    "Excalidraw/Drawing 2025-08-08 10.17.00.excalidraw.md",
+    "Excalidraw",
+    "01 Casos de Uso/Exercícios/B/_ Enunciado.md",
+    "01 Casos de Uso/Exercícios/B/Diagrama.canvas",
+    "01 Casos de Uso/Exercícios/A/Histórias de usuário.md",
+    "01 Casos de Uso/Exercícios/B",
+    "01 Casos de Uso/Exercícios/A",
+    "Untitled.md",
+    "01 Casos de Uso/Exercícios",
+    "Casos de Uso/Exemplos/Realizar Login.canvas",
+    "01 Casos de Uso/Exemplos",
+    "01 Casos de Uso/Componentes/Desenhos/04 Extensão.md",
+    "01 Casos de Uso/Componentes/Desenhos/05 Inclusão.md",
+    "01 Casos de Uso/Componentes/Desenhos/02 Associação.md",
+    "Casos de Uso/Componentes/Desenhos/Untitled.md",
+    "01 Casos de Uso/Componentes/Desenhos",
+    "Casos de Uso/Componentes/Componentes de um diagrama.md",
+    "01 Casos de Uso/Componentes",
+    "01 Casos de Uso"
+  ]
+}

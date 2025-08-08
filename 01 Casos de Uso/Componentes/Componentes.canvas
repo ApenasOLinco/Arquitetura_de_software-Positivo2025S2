@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"801bf569919811e5","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/01 Ator.md","x":-143,"y":80,"width":200,"height":180},
+		{"id":"f67075a086596a77","type":"text","text":"# Ator\nPapel exercido no contexto do sistema","x":-218,"y":-120,"width":351,"height":120},
+		{"id":"961f8ffb2c47696f","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/02 Associação.md","x":285,"y":80,"width":200,"height":180},
+		{"id":"36cf8efc7c45609a","type":"text","text":"# Associação]\nRelacionamento entre um ator e um UC","x":260,"y":-117,"width":250,"height":115},
+		{"id":"7cb66661e77eea4f","type":"text","text":"# Herança\nRelacionamento de especialização","x":620,"y":-116,"width":320,"height":113},
+		{"id":"289504b94963c340","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/03 Herança.md","x":680,"y":80,"width":200,"height":180},
+		{"id":"03158f71e1b767d2","type":"text","text":"# Extensão\nRelacionamento entre 2 UCs que indica um caminho alternativo","x":1060,"y":-133,"width":250,"height":148},
+		{"id":"a5a50fa0d8752378","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/04 Extensão.md","x":1085,"y":80,"width":200,"height":180},
+		{"id":"807b047c3e2fe985","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/05 Inclusão.md","x":1477,"y":80,"width":200,"height":180},
+		{"id":"e1e52d0c277ea0da","type":"text","text":"# Inclusão\nEntre 2 UCs. Indica caminho obrigatório (Redirecionamento automático).","x":1417,"y":-155,"width":320,"height":192}
+	],
+	"edges":[
+		{"id":"04b2c9afe54ecd2e","fromNode":"f67075a086596a77","fromSide":"bottom","toNode":"801bf569919811e5","toSide":"top"},
+		{"id":"0b11251dfdd41c8a","fromNode":"36cf8efc7c45609a","fromSide":"bottom","toNode":"961f8ffb2c47696f","toSide":"top"},
+		{"id":"4d69267feb55695f","fromNode":"7cb66661e77eea4f","fromSide":"bottom","toNode":"289504b94963c340","toSide":"top"},
+		{"id":"e2913104edfa3df5","fromNode":"03158f71e1b767d2","fromSide":"bottom","toNode":"a5a50fa0d8752378","toSide":"top"},
+		{"id":"f6fe376b25c77ae6","fromNode":"e1e52d0c277ea0da","fromSide":"bottom","toNode":"807b047c3e2fe985","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+Uma biblioteca deseja registrar empréstimos, devoluções e manter os registros de livros do acervo

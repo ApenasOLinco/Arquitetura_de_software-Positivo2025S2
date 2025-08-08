@@ -1,0 +1,1 @@
+- Como bibliotecário, desejo manter os registros dos empréstimos, cadastros e devoluções  de livros para controlar quais livros estão ou não disponíveis
