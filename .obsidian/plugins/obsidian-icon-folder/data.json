@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencil",
+      "LiComponent",
       "LiNotebookPen",
       "LiQuestionMarkGlyph",
-      "❔",
-      "LiNotebook",
-      "LiPencil"
+      "❔"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,9 @@
   "01 Casos de Uso/Componentes": "LiComponent",
   "01 Casos de Uso/Componentes/Desenhos": "LiPencil",
   "01 Casos de Uso/Exercícios": "LiNotebook",
-  "01 Casos de Uso/Exemplos": "LiQuestionMarkGlyph"
+  "01 Casos de Uso/Exemplos": "LiQuestionMarkGlyph",
+  "02 Modelo de Classes/Elementos": "LiComponent",
+  "02 Modelo de Classes/Elementos/Desenhos": "LiPencil",
+  "02 Modelo de Classes/Exemplo 01.md": "LiQuestionMarkGlyph",
+  "02 Modelo de Classes/Exemplo 02.md": "LiQuestionMarkGlyph"
 }

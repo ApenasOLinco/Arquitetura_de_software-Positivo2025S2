@@ -4,27 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc8c354a053e5cd",
+        "id": "c70426b9d72e28c0",
         "type": "tabs",
         "children": [
           {
-            "id": "149e0819b5bbbcb6",
+            "id": "624948a4e030f7e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "01 Casos de Uso/Componentes/Componentes.canvas",
-                "viewState": {
-                  "x": 1159.1790600228555,
-                  "y": 435.2439303513195,
-                  "zoom": -0.46059346368681386
-                }
+                "file": "02 Modelo de Classes/Exemplo 01.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Componentes"
+              "icon": "excalidraw-icon",
+              "title": "Exemplo 01"
+            }
+          },
+          {
+            "id": "cbc490d5cc4f8d24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 Modelo de Classes/Exemplo 02.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Exemplo 02"
+            }
+          },
+          {
+            "id": "d2b40110148a0c13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "00 Caso de Uso"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +180,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -184,41 +204,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "149e0819b5bbbcb6",
+  "active": "cbc490d5cc4f8d24",
   "lastOpenFiles": [
-    "01 Casos de Uso/Exercícios/A/_ Enunciado.md",
-    "01 Casos de Uso/Exemplos/Vendedor.md",
-    "01 Casos de Uso/Exercícios/C/_ Enunciado.md",
-    "01 Casos de Uso/Exercícios/C/Diagrama.md",
-    "01 Casos de Uso/Casos de Uso.md",
-    "01 Casos de Uso/Histórias de usuário.md",
-    "01 Casos de Uso/Exercícios/A/Diagrama.md",
-    "01 Casos de Uso/Exercícios/C/Histórias de usuário.md",
-    "01 Casos de Uso/Componentes/Componentes.canvas",
-    "01 Casos de Uso/Componentes/Desenhos/01 Ator.md",
+    "02 Modelo de Classes/Elementos/Desenhos/03 Agregação.md",
+    "02 Modelo de Classes/Elementos/Desenhos/04 Composição.md",
+    "02 Modelo de Classes/Elementos/Desenhos/02 Herança.md",
+    "02 Modelo de Classes/Elementos/Desenhos/01 Multiplicidade, Associação.md",
+    "02 Modelo de Classes/Exemplo 02.md",
+    "02 Modelo de Classes/Exemplo 01.md",
+    "02 Modelo de Classes/03 Como Identificar Classes.md",
+    "02 Modelo de Classes/Exercícios/01/Enunciado.md",
+    "02 Modelo de Classes/01 Modelo de Classes.md",
     "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md",
-    "01 Casos de Uso/Exercícios/C",
-    "01 Casos de Uso/Exercícios/B/Diagrama.md",
-    "01 Casos de Uso/Exercícios/B/Histórias de usuário.md",
-    "01 Casos de Uso/Componentes/Desenhos/03 Herança.md",
-    "Excalidraw/Drawing 2025-08-08 10.17.00.excalidraw.md",
-    "Excalidraw",
-    "01 Casos de Uso/Exercícios/B/_ Enunciado.md",
-    "01 Casos de Uso/Exercícios/B/Diagrama.canvas",
-    "01 Casos de Uso/Exercícios/A/Histórias de usuário.md",
-    "01 Casos de Uso/Exercícios/B",
-    "01 Casos de Uso/Exercícios/A",
+    "02 Modelo de Classes/Exercícios/01/_Enunciado/Drawing 2025-08-15 10.03.02.excalidraw.md",
+    "02 Modelo de Classes/Exercícios/01/_Enunciado",
+    "02 Modelo de Classes/Exercícios/01/_Enunciado.md",
+    "02 Modelo de Classes/Exercícios/01",
+    "02 Modelo de Classes/Exercícios",
+    "02 Modelo de Classes/02 Componentes De Uma Classe.md",
+    "01 Casos de Uso/Histórias de usuário.md",
+    "01 Casos de Uso/Casos de Uso.md",
+    "02 Modelo de Classes/Drawing 2025-08-15 09.42.32.excalidraw.md",
+    "01 Casos de Uso/Componentes/Desenhos/01 Ator.md",
+    "02 Modelo de Classes/03.01 Exemplo.md",
+    "02 Modelo de Classes/Elementos/Elementos.canvas",
+    "02 Modelo de Classes/Elementos/Desenhos/00 Classe.md",
+    "02 Modelo de Classes/Elementos/Desenhos/Untitled.md",
+    "02 Modelo de Classes/Elementos/Desenhos",
+    "02 Modelo de Classes/Elementos/Untitled.md",
+    "01 Casos de Uso/Componentes/Componentes.canvas",
+    "02 Modelo de Classes/Elementos",
+    "Untitled",
     "Untitled.md",
-    "01 Casos de Uso/Exercícios",
-    "Casos de Uso/Exemplos/Realizar Login.canvas",
-    "01 Casos de Uso/Exemplos",
-    "01 Casos de Uso/Componentes/Desenhos/04 Extensão.md",
+    "02 Modelo de Classes",
+    "01 Casos de Uso/Exercícios/C/Diagrama.md",
+    "01 Casos de Uso/Exercícios/C/_ Enunciado.md",
     "01 Casos de Uso/Componentes/Desenhos/05 Inclusão.md",
-    "01 Casos de Uso/Componentes/Desenhos/02 Associação.md",
-    "Casos de Uso/Componentes/Desenhos/Untitled.md",
-    "01 Casos de Uso/Componentes/Desenhos",
-    "Casos de Uso/Componentes/Componentes de um diagrama.md",
-    "01 Casos de Uso/Componentes",
-    "01 Casos de Uso"
+    "01 Casos de Uso/Componentes/Desenhos/04 Extensão.md",
+    "01 Casos de Uso/Exercícios/C",
+    "Excalidraw",
+    "01 Casos de Uso/Exercícios/B/Diagrama.canvas",
+    "01 Casos de Uso/Exercícios/B",
+    "Casos de Uso/Exemplos/Realizar Login.canvas"
   ]
 }

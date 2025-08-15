@@ -5,7 +5,7 @@
 		{"id":"961f8ffb2c47696f","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/02 Associação.md","x":285,"y":80,"width":200,"height":180},
 		{"id":"36cf8efc7c45609a","type":"text","text":"# Associação]\nRelacionamento entre um ator e um UC","x":260,"y":-117,"width":250,"height":115},
 		{"id":"7cb66661e77eea4f","type":"text","text":"# Herança\nRelacionamento de especialização","x":620,"y":-116,"width":320,"height":113},
-		{"id":"289504b94963c340","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/03 Herança.md","x":680,"y":80,"width":200,"height":180},
+		{"id":"289504b94963c340","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/03 Herança.md","x":680,"y":80,"width":200,"height":360},
 		{"id":"03158f71e1b767d2","type":"text","text":"# Extensão\nRelacionamento entre 2 UCs que indica um caminho alternativo","x":1060,"y":-133,"width":250,"height":148},
 		{"id":"a5a50fa0d8752378","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/04 Extensão.md","x":1085,"y":80,"width":200,"height":180},
 		{"id":"807b047c3e2fe985","type":"file","file":"01 Casos de Uso/Componentes/Desenhos/05 Inclusão.md","x":1477,"y":80,"width":200,"height":180},
