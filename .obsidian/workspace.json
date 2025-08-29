@@ -11,12 +11,14 @@
             "id": "d2b40110148a0c13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md"
+                "file": "03 IEEE 42010/Atividade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "00 Caso de Uso"
+              "icon": "lucide-file",
+              "title": "Atividade"
             }
           }
         ]
@@ -29,11 +31,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27753fc5bc0ab286",
+        "id": "b105f46305ea3de5",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e247f5a3b977fc",
+            "id": "8d7e129107bce0f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,33 +45,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "50f0337c00b93e47",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "0267519d368e4bf6",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -180,19 +155,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8e247f5a3b977fc",
+  "active": "d2b40110148a0c13",
   "lastOpenFiles": [
-    "03 IEEE 42",
-    "Untitled.base",
-    "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md",
-    "2025-08-29.md",
-    "02 Modelo de Classes/Exemplo 01.md",
+    "03 IEEE 42010/01 IEEE 42010 (Exercício).md",
+    "03 IEEE 42010/Atividade.md",
+    "03 IEEE 42010/Untitled",
     "02 Modelo de Classes/Exemplo 02.md",
+    "02 Modelo de Classes/Exemplo 01.md",
+    "02 Modelo de Classes/03 Como Identificar Classes.md",
+    "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md",
+    "03 IEEE 42010",
+    "Untitled.base",
+    "2025-08-29.md",
     "02 Modelo de Classes/Elementos/Desenhos/03 Agregação.md",
     "02 Modelo de Classes/Elementos/Desenhos/04 Composição.md",
     "02 Modelo de Classes/Elementos/Desenhos/02 Herança.md",
     "02 Modelo de Classes/Elementos/Desenhos/01 Multiplicidade, Associação.md",
-    "02 Modelo de Classes/03 Como Identificar Classes.md",
     "02 Modelo de Classes/Exercícios/01/Enunciado.md",
     "02 Modelo de Classes/01 Modelo de Classes.md",
     "02 Modelo de Classes/Exercícios/01/_Enunciado/Drawing 2025-08-15 10.03.02.excalidraw.md",
@@ -216,9 +194,7 @@
     "Untitled.md",
     "02 Modelo de Classes",
     "01 Casos de Uso/Exercícios/C/Diagrama.md",
-    "01 Casos de Uso/Exercícios/C/_ Enunciado.md",
     "01 Casos de Uso/Exercícios/C",
-    "Excalidraw",
     "01 Casos de Uso/Exercícios/B/Diagrama.canvas",
     "Casos de Uso/Exemplos/Realizar Login.canvas"
   ]

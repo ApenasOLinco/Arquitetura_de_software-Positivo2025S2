@@ -9,15 +9,65 @@
       "key": "P"
     }
   ],
-  "editor:swap-line-down": [
+  "editor:toggle-checklist-status": [],
+  "quick-explorer:browse-vault": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowUp"
+      "key": "E"
     }
   ],
-  "editor:swap-line-up": [
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "quick-explorer:go-first": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Home"
+    }
+  ],
+  "quick-explorer:go-last": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "End"
+    }
+  ],
+  "quick-explorer:go-next": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "quick-explorer:go-prev": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:swap-line-down": [
     {
       "modifiers": [
         "Alt"
@@ -25,5 +75,12 @@
       "key": "ArrowDown"
     }
   ],
-  "editor:toggle-checklist-status": []
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
 }
