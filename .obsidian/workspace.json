@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "624948a4e030f7e3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "02 Modelo de Classes/Exemplo 01.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Exemplo 01"
-            }
-          },
-          {
-            "id": "cbc490d5cc4f8d24",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "02 Modelo de Classes/Exemplo 02.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Exemplo 02"
-            }
-          },
-          {
             "id": "d2b40110148a0c13",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               "title": "00 Caso de Uso"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +155,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -194,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -204,18 +180,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbc490d5cc4f8d24",
+  "active": "d8e247f5a3b977fc",
   "lastOpenFiles": [
+    "03 IEEE 42",
+    "Untitled.base",
+    "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md",
+    "2025-08-29.md",
+    "02 Modelo de Classes/Exemplo 01.md",
+    "02 Modelo de Classes/Exemplo 02.md",
     "02 Modelo de Classes/Elementos/Desenhos/03 Agregação.md",
     "02 Modelo de Classes/Elementos/Desenhos/04 Composição.md",
     "02 Modelo de Classes/Elementos/Desenhos/02 Herança.md",
     "02 Modelo de Classes/Elementos/Desenhos/01 Multiplicidade, Associação.md",
-    "02 Modelo de Classes/Exemplo 02.md",
-    "02 Modelo de Classes/Exemplo 01.md",
     "02 Modelo de Classes/03 Como Identificar Classes.md",
     "02 Modelo de Classes/Exercícios/01/Enunciado.md",
     "02 Modelo de Classes/01 Modelo de Classes.md",
-    "01 Casos de Uso/Componentes/Desenhos/00 Caso de Uso.md",
     "02 Modelo de Classes/Exercícios/01/_Enunciado/Drawing 2025-08-15 10.03.02.excalidraw.md",
     "02 Modelo de Classes/Exercícios/01/_Enunciado",
     "02 Modelo de Classes/Exercícios/01/_Enunciado.md",
@@ -234,17 +213,13 @@
     "02 Modelo de Classes/Elementos/Untitled.md",
     "01 Casos de Uso/Componentes/Componentes.canvas",
     "02 Modelo de Classes/Elementos",
-    "Untitled",
     "Untitled.md",
     "02 Modelo de Classes",
     "01 Casos de Uso/Exercícios/C/Diagrama.md",
     "01 Casos de Uso/Exercícios/C/_ Enunciado.md",
-    "01 Casos de Uso/Componentes/Desenhos/05 Inclusão.md",
-    "01 Casos de Uso/Componentes/Desenhos/04 Extensão.md",
     "01 Casos de Uso/Exercícios/C",
     "Excalidraw",
     "01 Casos de Uso/Exercícios/B/Diagrama.canvas",
-    "01 Casos de Uso/Exercícios/B",
     "Casos de Uso/Exemplos/Realizar Login.canvas"
   ]
 }
